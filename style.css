@@ -1,0 +1,54 @@
+h1 {color: yellow;
+}
+
+h1 {
+	font-family: Complex;
+}
+
+h1 {text-align: center;
+}
+
+#Cigarro-01 {width: 100%;
+}
+
+strong {color: blueviolet;
+}
+
+li {color: yellowgreen;
+}
+
+h2 {font-style: italic;
+}
+
+h2 {color: green;
+}
+
+h2 {text-align: center;
+}
+
+p {color: white;
+}
+
+h3 {font-style: italic;
+}
+
+h4 {color: white;
+}
+
+h3 {color: white;
+}
+
+p {font-style: italic;
+	text-align: justify;
+}
+
+h4 {color: green;
+}
+
+nav li {
+	display: inline;
+}
+
+li{
+	font-family: verdana;
+}

@@ -1,0 +1,49 @@
+b{
+	font-family: Fixedsys;
+}
+
+h1 {font-style: italic;
+}
+
+body {
+	font-family:Complex ;
+}
+
+body {color: white;
+}
+
+h1 {text-align: center;
+}
+
+h1 {color: yellowgreen;
+}
+
+nav li {
+	display: inline;
+}
+
+
+li{
+	font-family: verdana;
+}
+
+img {
+	width: 40%;
+}
+
+p{
+	text-align: justify;
+}
+
+ol li{
+	color: green;
+}
+
+h2 {
+	color: rebeccapurple;
+}
+
+h4{color: green;
+	text-align: center;
+}
+
